@@ -58,7 +58,7 @@ const PRODUCT_FIELDS = [
   "id", "name", "title", "description",
   "image", "image_url", "thumbnail",
   "price", "min_price", "max_price",
-  "stock", "status", "active", "category_id",
+  "stock", "stock_count", "status", "status_color", "status_text", "active", "category_id",
 ];
 const PAYMENT_METHOD_FIELDS = ["id", "type", "name", "icon_image_url", "is_active"];
 
